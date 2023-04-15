@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBIyjZwjFrbUZFJ8rv9p9lgYV9xpJIsWE5nBSpw//OE29oe9YgouUFF2Ur3Chzd6aKOfqSJHgWkf1H/ewhQA3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\Sample\\my-first-aws-proj\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.core\\3.7.106.19\\awssdk.core.3.7.106.19.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.s3\\3.7.103.49\\awssdk.s3.3.7.103.49.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.securitytoken\\3.7.101.47\\awssdk.securitytoken.3.7.101.47.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.simpleemail\\3.7.100.112\\awssdk.simpleemail.3.7.100.112.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

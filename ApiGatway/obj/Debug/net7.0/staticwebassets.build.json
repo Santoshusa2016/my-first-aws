@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "URzKbBcemz59HLcY3Sn+jOIhILyTMlI7VMHzvx2hzEY=",
+  "Source": "ApiGatway",
+  "BasePath": "_content/ApiGatway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
